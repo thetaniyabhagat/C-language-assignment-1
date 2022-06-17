@@ -1,0 +1,25 @@
+                                                                                 C Language Live Community Classes 
+                                                                                                 Assignment 3😀
+                                                                                         Submission by Taniya Bhagat	    
+      
+        Ans 1.  Primitive datatype : short, int, long, char, float, double and void .
+        
+        Ans 2.  Declaration Statements.
+
+        Ans 3.  4 Bytes.
+
+       Ans 4.  Garbage Value.
+
+       Ans 5.   Float : 4 bytes, Single precision .
+                     Double: 8 bytes, Double precision.
+
+       Ans 6.   Full Form of ASCII: American Standard Code for Information Interchange.
+
+       Ans 7.   Function: Block of statements
+                     Keywords: Reserved words in c.
+
+       Ans 8.  There are five data type modifiers in C :  long, short, signed, unsigned, long long.
+
+       Ans 9.  Yes, we can assign a character constant in an int variable.
+
+      Ans 10.  No.
